@@ -1,0 +1,11 @@
+{
+  "name": "personal-crm-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for Personal CRM — query and log relationship interactions via Claude",
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.26.0",
+    "axios": "^1.13.5",
+    "dotenv": "^16.3.1"
+  }
+}
